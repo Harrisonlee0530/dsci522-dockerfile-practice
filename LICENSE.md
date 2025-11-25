@@ -5,8 +5,7 @@ The original GitHub Workflows code was copied from the ttimbers/dsci522-dockerfi
 
 # Software
 
-Except where otherwise noted, the example programs and other software
-provided in the `dsci522-dockerfile-practice` repository is made available under the
+Only `docker-publish.yml` in `dsci522-dockerfile-practice` is covered under the
 MIT license.
 
 MIT License
