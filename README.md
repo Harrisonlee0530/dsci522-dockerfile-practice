@@ -1,1 +1,1 @@
-# dsci522-dockerfile-practice
+# DSCI522 Dockerfile Practice
